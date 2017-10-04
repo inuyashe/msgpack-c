@@ -72,4 +72,4 @@ then
     fi
 fi
 
-exit 0
+return 0
